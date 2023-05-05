@@ -1,6 +1,6 @@
 # CC2023
 
-Scripts for my lectures at the Crash Course in Evolutionary Biology 2023.
+Scripts for my lectures at the [Crash Course in Evolutionary Biology 2023](https://evobiocrashcourse.github.io/).
 
 ## Content summary
 
