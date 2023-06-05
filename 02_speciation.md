@@ -60,6 +60,8 @@ Now, although some examples of supergenes or magic traits have been identified, 
 
 That sounds quite complete. Do I have more to say?
 
-* Should I include speciation genetics and genomics here or do they deserve a full lecture? Or a practical? Maybe I could use the practicals to teach them about Haldane's rule, clines, speciation genomics, etc.
+* Should I include speciation genetics and genomics here or do they deserve a full lecture? Or a practical? Maybe I could use the practicals to teach them about Haldane's rule, clines, speciation genomics, etc. hybridization?
 * Some terms are missing: adpative speciation, ecological speciation, peripatric and vicariant speciation, polyploid speciation, hybrid speciation
 * Mention famous examples such as cichlids, anoles, sticklebacks, Rhagoletis etc.
+* Speciation by sexual selection
+* A primer on speciation theory vs speciation genetics/genomics?
