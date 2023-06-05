@@ -1,4 +1,4 @@
-## Speciation Theory
+## Speciation
 
 In this lecture we ask the question: what are the conditions that are required for new species to form? Many people have tried to come up with answers, and sometimes they are surprising. As always, those problems are tackled by both theoreticians coming up with models, and empiricists trying to confirm or reject those theories.
 
