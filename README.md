@@ -4,7 +4,7 @@ Scripts for my lectures at the [Crash Course in Evolutionary Biology 2023](https
 
 ## Content summary
 
-### [Evolutionary Quantitative Genetics](01_evolutionary_quantitative_genetics.md)
+### [Evolutionary Quantitative Genetics](01_quantitative_genetics.md)
 
 Population genetics theory focuses on predicting what will happen to one or a handful of genes at most, whose alleles have discrete effects on the phenotype. But what of traits that vary continuously in populations (such as body size) and that may be encoded by many, many genes? Here, we will see how quantitative genetics extends the principles of population genetics to those cases, and gives us tools to understand and predict the evolution of phenotypes... sometimes without really needing to know the underlying genes.
 
@@ -24,7 +24,7 @@ In this part of the course we will go over phylogenetic trees: what they are, ho
 * 1H lecture
 * 3H practical
 
-### [Adaptive Dynamics Theory](04_adaptive_dynamics_theory.md)
+### [Adaptive Dynamics Theory](04_adaptive_dynamics.md)
 
 Sometimes, as hopefully we will have seen in all the other lectures, there are so many selection pressures affecting organisms that it is difficult to predict what path evolution will take. What is the optimal sex ratio for a given population? What behavioral strategy should be favored in this or that case? Is a certain environment prone to speciation? Here, we will how adaptive dynamics theory gives us tools to get insights into those questions.
 
